@@ -1,5 +1,5 @@
 classes= 1
-train  = /content/cylistDataBase/train.txt
-valid  = /content/cylistDataBase/valid.txt
-names = /content/cylistDataBase/obj.names
+train  = /content/cyclistDataBase/train.txt
+valid  = /content/cyclistDataBase/valid.txt
+names = /content/cyclistDataBase/obj.names
 backup = backup/
